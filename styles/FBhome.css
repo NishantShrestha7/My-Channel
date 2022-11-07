@@ -1,0 +1,163 @@
+.body-one{
+background-color: lightgray;
+height: 1000px;    
+}
+
+.first-button{
+width: 400px;
+height: 400px;
+border-radius: 15px;
+border: none;
+}
+
+.first-input{
+height: 50px;
+border-radius: 10px;
+width: 350px;
+padding-left: 20px;
+vertical-align: 0px;
+margin-right: 40px;
+margin-left: 5px;
+margin-bottom: 10px;
+display: inline-block;
+border: none;
+}
+
+.second-input{
+vertical-align: 0px;
+height: 50px;
+border-radius: 10px;
+width: 350px;
+margin-right: 40px;
+margin-left: 5px;
+padding-left: 20px;
+margin-bottom: 10px;
+border: none;
+}
+
+.first-div{
+display: inline-block;
+margin-top: 17px; 
+}
+
+.second-div{
+ display: inline-block;
+ margin-left: 0px;
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+
+.third-div{
+display: inline-block;
+margin-left: 800px;
+margin-top: 0px;
+}
+
+.fourth-div{
+display: inline-block;
+width: 600px;
+margin-left: 150px;
+margin-right: 0px; 
+margin-top: 0px;
+position: relative;
+top: 200px; 
+}
+
+.log-in{
+font-size: 20px; 
+margin-top: 10px;
+width: 370px;
+background-color: #1877f2;
+border-radius: 8px;
+color: white;
+height: 40px;
+padding-top: 12px;
+font-family: arial;
+margin-bottom: 0px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-left: 5px;
+}
+
+.log-in:hover{
+background-color: blue;
+cursor: pointer;
+}
+
+.forgot-password{
+color: #1877f2;
+margin-right: 30px;
+margin-top: 20px;
+margin-bottom: 0px;
+cursor: pointer;
+}
+
+.forgot-password:hover{
+color: blue;
+}
+
+.first-dash{
+ color: gray;
+ margin-right: 50px;
+ font-family: inherit;
+ margin-top: 20px;
+}
+
+.create-ac{
+background-color: #42b72a;
+color: white;
+height: 40px;
+width: 230px;
+padding-top: 20px;
+border-radius: 10px; 
+font-size: 20px;
+margin-left: 60px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-bottom: 60px;
+position: relative;
+left: 20px;
+}
+
+.create-ac:hover{
+cursor: pointer;
+background-color: green;    
+}
+
+.last-line{
+margin-right: 35px; 
+font-family: verdana;
+margin-top: 10px;
+margin-bottom: 0px;
+vertical-align: top;
+display: inline-block;
+width: 400px;
+position: relative;
+bottom: 20px;
+right: 8px;
+}
+
+.fb-logo{
+font-family: Arial;
+font-size: 60px;
+color: blue; 
+vertical-align: top;
+margin-right: 0px; 
+margin-bottom: 0px; 
+margin-top: 0px; 
+}
+
+.fb-def{
+margin-top: 0px;
+font-family: inherit;
+color: black;
+font-size: 40px;
+margin-bottom: 0px;
+}
+
+
+
+ 
+ 
+ 
+
+
+
